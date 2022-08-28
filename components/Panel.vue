@@ -1,7 +1,7 @@
 <template>
     <div class="panel" icon="person-outline">
         <div class="login-text">
-            <a href="https://github.com/Ice-Hazymoon/MikuTools" target="_blank" rel="noopener noreferrer">Powered by MikuTools</a>
+            <a href="https://blog.cycxtit.top/" target="_blank" rel="noopener noreferrer">程源の小站</a>
         </div>
     </div>
 </template>
