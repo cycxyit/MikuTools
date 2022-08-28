@@ -49,23 +49,14 @@ export default {
                     title: '主要维护人员',
                     list: [
                         {
-                            name: 'Ice-Hazymoon',
-                            description: '聆听最初的声音，向往无尽的未来',
-                            link: 'https://imiku.me'
+                            name: '程源の小站',
+                            description: '程源の小站',
+                            link: 'https://blog.cycxtit.top'
                         },
                         {
-                            name: 'KeJun',
-                            description: '维护人员',
-                            link: 'https://kejun.me/'
-                        },
-                        {
-                            name: 'Tamshen',
-                            description: '图标设计',
-                            link: 'http://tamshen.com'
-                        },
-                        {
-                            name: 'So',
-                            description: '不知道干啥的'
+                            name: 'Telegram',
+                            description: 'Telegram频道',
+                            link: 'https://t.me/cycxtit_ga'
                         }
                     ]
                 },
@@ -73,14 +64,9 @@ export default {
                     title: '其他',
                     list: [
                         {
-                            name: 'GitHub地址',
-                            description: '给个 star 呗',
-                            link: 'https://github.com/Ice-Hazymoon/MikuTools'
-                        },
-                        {
-                            name: '服务器提供商（注册送 50 美元余额）',
-                            description: 'vultr',
-                            link: 'https://www.vultr.com/?ref=7943329-4F'
+                            name: '云白科技-Telegram频道',
+                            description: '云白科技',
+                            link: 'https://t.me/yunbaitech'
                         }
                     ]
                 }
