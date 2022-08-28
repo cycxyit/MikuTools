@@ -5,7 +5,7 @@
                 <nya-input
                     v-model.trim="options.word"
                     label="输入要生成的文字"
-                    placeholder="Hello MikuTools"
+                    placeholder="Hello World"
                     autocomplete="off"
                     autofocus
                     @keyup.enter="updatePreview"
