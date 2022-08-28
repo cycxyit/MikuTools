@@ -1,7 +1,7 @@
 import pinyin from './pinyin';
 
 export default {
-    title: 'MikuTools',
+    title: '程源の工具箱',
     domain:
         process.env.NODE_ENV === 'development'
             ? 'dev.miku.tools:3000'
