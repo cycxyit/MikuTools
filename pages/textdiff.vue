@@ -10,7 +10,7 @@
                 autofocus
                 autocomplete="off"
                 label="旧文本"
-                placeholder="console.log('mikutools')"
+                placeholder="console.log('tools')"
             />
             <nya-input
                 v-model="newString"
@@ -20,7 +20,7 @@
                 type="textarea"
                 autocomplete="off"
                 label="新文本"
-                placeholder="console.info('Miku Tools')"
+                placeholder="console.info('Cycxtit Tools')"
             />
             <div class="nya-btn" @click="diff">
                 生成对比
