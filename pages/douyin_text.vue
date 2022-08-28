@@ -81,7 +81,7 @@ export default {
             loading: false,
             colors: '#000',
             options: {
-                word: 'Hello MikuTools',
+                word: 'Hello World',
                 gif: false,
                 divider: false,
                 color: 'white',
